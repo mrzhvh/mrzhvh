@@ -29,36 +29,4 @@ Ressourcen
     Projektideen: Vielfältige Projekte zur Förderung von Teamarbeit und zur Anwendung des Gelernten in realen Aufgabenstellungen.
     Anleitungen zu Werkzeugen: Tutorials und Guides zur Einrichtung und optimalen Nutzung der vorgestellten Entwicklungswerkzeuge.
 
-<!-- Verwendung des Repositories
-
-    Für Lehrkräfte: Nutzt die Unterrichtsmaterialien, passt sie an eure Bedürfnisse an und teilt eigene Erweiterungen und Verbesserungen.
-    Für Schülerinnen und Schüler: Ergänzt den Unterricht mit zusätzlichen Ressourcen, experimentiert mit eigenen Projekten und vertieft euer Wissen.
-    Für die Community: Ich lade alle Interessierten ein, Rückmeldungen zu geben, Issues zu eröffnen oder Pull Requests zu senden – gemeinsam können wir das Lernen und Lehren der Informatik weiter verbessern.
-
-Mitmachen
-
-Ich begrüße Beiträge, Vorschläge und Feedback. Ob Lehrkraft, Entwickler oder Schüler – wenn du Ideen zur Verbesserung hast, eröffne bitte ein Issue oder erstelle einen Pull Request. Lasst uns gemeinsam eine lebendige Community rund um die Informatik im Schulbereich erschaffen!
-Kontakt
-
-Bei Fragen oder Anregungen kannst du mich erreichen:
-
-    E-Mail: deine-email@example.com
-    Twitter: @deinTwitterHandle -->
-
 Vielen Dank fürs Vorbeischauen und viel Erfolg beim Coden!
-
-
-<!--
-**mrzhvh/mrzhvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
